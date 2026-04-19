@@ -25,7 +25,8 @@ Chào mừng bạn đến với thế giới hậu tận thế, nơi cái chết
 
 ## 🤝 Đóng góp
 
-Mọi đóng góp về code, ý tưởng hoặc báo lỗi (Bug report) đều được hoan nghênh! Hãy mở một `Issue` hoặc gửi một `Pull Request`.
+Mọi đóng góp về code, ý tưởng hoặc báo lỗi (Bug report) đều được hoan nghênh! Hãy tham gia Discord để có thể đóng góp trực tiếp với mình tại:
+https://discord.com/invite/JJ3m4XAdSd.
 
 ## 🤝 Donate ủng hộ mình phát triển Mod tại đây
 <img width="975" height="1600" alt="image" src="https://github.com/user-attachments/assets/3ffb1447-fbf0-4c03-a450-bab2ff60df85" />
