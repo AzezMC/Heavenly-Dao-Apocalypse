@@ -8,7 +8,7 @@ Chào mừng bạn đến với thế giới hậu tận thế, nơi cái chết
 *   **⚡ Hệ thống Dị năng & Sức mạnh:** Bạn không đơn độc! Mở khóa các siêu năng lực độc đáo để chiến đấu, di chuyển và bảo vệ bản thân. Mỗi sức mạnh đều có thể nâng cấp để đạt đến đẳng cấp tối thượng.
 *   **⚔️ Sinh tồn khắc nghiệt:** Quản lý tài nguyên, xây dựng căn cứ và đối mặt với những đợt tấn công (Horde) định kỳ.
 *   **🌍 Sứ mệnh giải cứu:** Mục tiêu cuối cùng không chỉ là sống sót, mà là tìm ra nguồn gốc của đại dịch và giải cứu thế giới khỏi sự diệt vong.
-*   **🫂 Ngoài ra, bạn cũng có thể cùng những người bạn của mình xây dựng 1 thế lực hùng mạnh để tồn tại và đánh bại quái dị một cách dễ thở hơn.
+*   🫂 Ngoài ra, bạn cũng có thể cùng những người bạn của mình xây dựng 1 thế lực hùng mạnh để tồn tại và đánh bại quái dị một cách dễ thở hơn.
 
 ## 🛠 Yêu cầu hệ thống
 
